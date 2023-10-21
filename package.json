@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "node-js-gallery-player-and-form",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://troshuk.github.io/node-js-gallery-player-and-form",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/troshuk/node-js-gallery-player-and-form.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Denys Troshuk <troshuk@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/troshuk/node-js-gallery-player-and-form/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
